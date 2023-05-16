@@ -34,7 +34,7 @@ const char *heslo = "HESLO";
 #endif
 
 #ifdef ESP32
-#define LEDPin 25
+#define LEDPin 27
 #endif
 
 unsigned long lastmill = 0;   
