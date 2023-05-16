@@ -18,7 +18,7 @@
 
 #ifdef ESP32
 #include <HTTPClient.h>
-#include <Wifi.h>
+#include <WiFi.h>
 #endif
 
 //SSID a Heslo k WiFi
