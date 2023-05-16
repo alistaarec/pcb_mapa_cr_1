@@ -17,7 +17,7 @@
 #endif
 
 #ifdef ESP32
-#include <HTTPClient>
+#include <HTTPClient.h>
 #include <Wifi.h>
 #endif
 
